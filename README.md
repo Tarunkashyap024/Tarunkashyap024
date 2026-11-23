@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:                          Hi' Tarun Kashyap
  Hi, I'm Tarun Kashyap, a BCA student and an aspiring Software            Developer with a strong interest in web development and programming.          I enjoy learning new technologies and building creative projects           that help me improve my technical skills. I have knowledge of HTML,           CSS, Java, and basic JavaScript. I am also exploring Data Structures           and Algorithms to strengthen my problem-solving abilities. My goal           is to become a skilled Software Developer by continuously learning,           practicing, and building real-world projects. I believe in learning           by doing and improving a little every day.
 
 
